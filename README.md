@@ -26,7 +26,7 @@ This repository is actively maintained throughout the semester. Feedback, collab
 
 ## Webpages & User Created Content
 
-  * Hometown Website http://127.0.0.1:5500/Course-Portfolio/Hometown/Hometown-Webpage.html
+  * <a href="http://127.0.0.1:5500/Course-Portfolio/Hometown/Hometown-Webpage.html" alt="Whittier, CA hometown static webpage created by Christian Ventura">Hometown Website: Whittier, CA</a>
 
 ## 📫 Contact
 
