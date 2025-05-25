@@ -1,4 +1,4 @@
-# GIT 337: Dynamic Web Content
+# 🧩 GIT 337: Dynamic Web Content
 
 Welcome to my official repository for **GIT 337: Dynamic Web Content**, a course offered at Arizona State University. This repository serves as a living portfolio of my progression through the class, showcasing my hands-on work in modern front-end development, dynamic user interfaces, and responsive web design principles.
 
@@ -24,9 +24,9 @@ By the end of this course, I aim to:
 
 This repository is actively maintained throughout the semester. Feedback, collaboration, and constructive suggestions are always welcome.
 
-## Webpages & User Created Content
+## 🧾 Webpages & User Created Content
 
-  * <a href="http://127.0.0.1:5500/Course-Portfolio/Hometown/Hometown-Webpage.html" alt="Whittier, CA hometown static webpage created by Christian Ventura">Hometown Website: Whittier, CA</a>
+ 🌐 <a href="http://127.0.0.1:5500/Course-Portfolio/Hometown/Hometown-Webpage.html" alt="Whittier, CA hometown static webpage created by Christian Ventura">Hometown Website: Whittier, CA</a>
 
 ## 📫 Contact
 
