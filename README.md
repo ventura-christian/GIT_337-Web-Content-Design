@@ -26,7 +26,7 @@ This repository is actively maintained throughout the semester. Feedback, collab
 
 ## 📫 Contact
 
-If you’re interested in discussing this course or my work, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo/issues) or connect with me on [LinkedIn](https://www.linkedin.com).
+If you’re interested in discussing this course or my work, feel free to reach out via [GitHub Issues](https://github.com/your-username/your-repo/issues) or connect with me on [https://www.linkedin.com](https://www.linkedin.com/in/christian-ventura-100402351/).
 
 ---
 
